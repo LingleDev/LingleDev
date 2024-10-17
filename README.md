@@ -9,8 +9,8 @@ I'm also [certified](https://drive.google.com/file/d/19XBsjGbIQl8XbnF48UJqHBNT5E
 
 # Projects  
 * [Hulkbot](https://hulkbot.xyz/) - a powerful Discord bot with endless capabilities to help you manage your server the right way.
-* [Evette](https://lingle.is-a.dev/Evette) - a fun, easy-going economy bot to keep your server entertaining! (project is dead)
-
+* [Evette](https://evette.xyz/) - a fun, easy-going economy bot to keep your server entertaining!
+  
 # Certifications
 I'm certified in multiple industry standard programs, such as:
 
